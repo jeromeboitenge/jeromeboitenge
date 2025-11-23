@@ -43,9 +43,6 @@
 
 # 💻 **About Me**
 
-<details>
-<summary>Click to Expand About Me</summary>
-
 I'm **Jerome Boitenge**, a **full-stack developer, frontend expert, system analyst, and hardware/software maintainer**.  
 I build **scalable, secure, and visually stunning digital solutions** while also providing **hardware support and system analysis**.
 
@@ -56,8 +53,6 @@ I build **scalable, secure, and visually stunning digital solutions** while also
 - ⚡ Cloud deployment & DevOps automation
 - ⚡ UI/UX design & responsive interfaces
 - ⚡ Passionate about mentoring & building African tech solutions
-
-</details>
 
 ---
 
@@ -139,7 +134,6 @@ I build **scalable, secure, and visually stunning digital solutions** while also
 
 # 🎯 **Featured Projects**
 
-<details>
 <summary>Click to Expand Projects</summary>
 
 <div align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:20px">
@@ -177,7 +171,6 @@ I build **scalable, secure, and visually stunning digital solutions** while also
 - Financial & analytical dashboards
 
 </div>
-</details>
 
 ---
 

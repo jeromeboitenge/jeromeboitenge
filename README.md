@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="./images/Nzaramyimana Jerome.jpeg" alt="Jerome BoitJeromenzaramyimana Banner" width="100%" />
+  <img src="./images/Nzaramyimana jerome.jpeg" alt="Jerome BoitJeromenzaramyimana Banner" width="100%" />
 </p>
 
 <!-- PROFILE TITLE WITH MOVING DESCRIPTION -->

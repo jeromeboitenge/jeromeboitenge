@@ -17,19 +17,27 @@ Senior Software Engineer | MERN & Next.js Developer | System Analyst | Hardware 
 
 # 💻 **About Me**
 
+<details>
+<summary>Click to Expand About Me</summary>
+
 I'm **Jerome Boitenge**, a **full-stack developer, system analyst, and hardware/software maintainer**.  
-I build **scalable, secure, and impactful digital solutions** while also providing **hardware support and system analysis**.
+I build **scalable, secure, and impactful digital solutions** while also ensuring **hardware systems run smoothly**.
 
 - ⚡ MERN & Next.js expert
-- ⚡ Skilled in backend architecture & system design
+- ⚡ Backend & system architecture skills
 - ⚡ Hardware maintenance & troubleshooting
 - ⚡ Cloud deployment & DevOps automation
-- ⚡ UI/UX design & responsive interfaces
-- ⚡ Passionate about mentoring & building African tech solutions
+- ⚡ UI/UX & responsive design
+- ⚡ Passionate about mentoring & African tech solutions
+
+</details>
 
 ---
 
 # 🛠 **Skills**
+
+<details>
+<summary>Click to Expand Skills</summary>
 
 ## 🔹 Programming & Frameworks
 
@@ -61,9 +69,14 @@ I build **scalable, secure, and impactful digital solutions** while also providi
   <img src="https://skillicons.dev/icons?i=windows,linux,raspberrypi,arduino" />
 </p>
 
+</details>
+
 ---
 
-# 📊 **Skill Levels (Animated Progress Bars)**
+# 📊 **Skill Levels**
+
+<details>
+<summary>Click to Expand Skill Progress Bars</summary>
 
 | Skill                             | Level                                                           |
 | --------------------------------- | --------------------------------------------------------------- |
@@ -76,6 +89,8 @@ I build **scalable, secure, and impactful digital solutions** while also providi
 | **Docker & Cloud**                | ![75](https://progress-bar.dev/75/?title=Docker&color=2496ED)   |
 | **UI/UX & Figma**                 | ![85](https://progress-bar.dev/85/?title=Figma&color=F24E1E)    |
 | **Hardware & System Maintenance** | ![80](https://progress-bar.dev/80/?title=Hardware&color=FF8C00) |
+
+</details>
 
 ---
 
@@ -92,15 +107,10 @@ I build **scalable, secure, and impactful digital solutions** while also providi
 
 ---
 
-# 🐍 **Contribution Graph Snake**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
 # 🎯 **Featured Projects**
+
+<details>
+<summary>Click to Expand Projects</summary>
 
 <div align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:20px">
 
@@ -137,6 +147,8 @@ I build **scalable, secure, and impactful digital solutions** while also providi
 - Financial & analytical dashboards
 
 </div>
+
+</details>
 
 ---
 

@@ -63,6 +63,10 @@ I build **scalable, secure, and visually stunning digital solutions** while also
 
 # 🛠 **Skills**
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,docker,typescript,tailwind,figma,linux,arduino" />
+</p>
+
 ## 🔹 Frontend & UI/UX
 
 <p align="center">
@@ -95,6 +99,15 @@ I build **scalable, secure, and visually stunning digital solutions** while also
 
 ---
 
+# 💻 **Code Showcase**
+
+<p align="center">
+  💡 **Node.js API Route Example (Using Express.js):**
+  <script src="https://gist.github.com/jeromeboitenge/50c8e3b32e0862a95c47941094f9d0e1.js"></script> 
+</p>
+
+---
+
 # 📊 **Skill Levels (Animated Progress Bars)**
 
 | Skill                                                                                 | Level                                                      |
@@ -119,11 +132,7 @@ I build **scalable, secure, and visually stunning digital solutions** while also
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeromeboitenge&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" />
+  <img src="https://wakatime.com/badge/user/53f81e0a-31a8-4447-b849-c128c70f0747/language/javascript.svg" alt="Wakatime JavaScript Activity" />
 </p>
 
 ---
@@ -169,6 +178,14 @@ I build **scalable, secure, and visually stunning digital solutions** while also
 
 </div>
 </details>
+
+---
+
+### ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Development Quote" />
+</p>
 
 ---
 

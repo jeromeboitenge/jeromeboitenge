@@ -77,6 +77,10 @@ I build **scalable, secure, and visually stunning digital solutions** while also
 
 # 📈 **Skill Proficiency**
 
+---
+
+# 📈 **Skill Proficiency**
+
 <div align="center">
 <table>
   <thead>
@@ -87,44 +91,46 @@ I build **scalable, secure, and visually stunning digital solutions** while also
   </thead>
   <tbody>
     <tr>
-      <td align="left">![JavaScript](https://skillicons.dev/icons?i=javascript) **JavaScript**</td>
-      <td>![90](https://progress-bar.dev/90/?title=90%&color=0A66C2)</td>
+      <td align="left">![JavaScript Icon](https://skillicons.dev/icons?i=javascript) **JavaScript**</td>
+      <td>![90% Progress](https://progress-bar.dev/90/?title=90%&color=0A66C2)</td>
     </tr>
     <tr>
-      <td align="left">![React](https://skillicons.dev/icons?i=react) **React.js / React Native**</td>
-      <td>![95](https://progress-bar.dev/95/?title=95%&color=61DBFB)</td>
+      <td align="left">![React Icon](https://skillicons.dev/icons?i=react) **React.js / React Native**</td>
+      <td>![95% Progress](https://progress-bar.dev/95/?title=95%&color=61DBFB)</td>
     </tr>
     <tr>
-      <td align="left">![Next.js](https://skillicons.dev/icons?i=nextjs) **Next.js**</td>
-      <td>![90](https://progress-bar.dev/90/?title=90%&color=000000)</td>
+      <td align="left">![Next.js Icon](https://skillicons.dev/icons?i=nextjs) **Next.js**</td>
+      <td>![90% Progress](https://progress-bar.dev/90/?title=90%&color=000000)</td>
     </tr>
     <tr>
-      <td align="left">![Node.js](https://skillicons.dev/icons?i=nodejs) **Node.js**</td>
-      <td>![85](https://progress-bar.dev/85/?title=85%&color=68A063)</td>
+      <td align="left">![Node.js Icon](https://skillicons.dev/icons?i=nodejs) **Node.js**</td>
+      <td>![85% Progress](https://progress-bar.dev/85/?title=85%&color=68A063)</td>
     </tr>
     <tr>
-      <td align="left">![MongoDB](https://skillicons.dev/icons?i=mongodb) **MongoDB**</td>
-      <td>![80](https://progress-bar.dev/80/?title=80%&color=4DB33D)</td>
+      <td align="left">![MongoDB Icon](https://skillicons.dev/icons?i=mongodb) **MongoDB**</td>
+      <td>![80% Progress](https://progress-bar.dev/80/?title=80%&color=4DB33D)</td>
     </tr>
     <tr>
-      <td align="left">![Tailwind](https://skillicons.dev/icons?i=tailwind) **Tailwind / Bootstrap / MUI**</td>
-      <td>![90](https://progress-bar.dev/90/?title=90%&color=38B2AC)</td>
+      <td align="left">![Tailwind Icon](https://skillicons.dev/icons?i=tailwind) **Tailwind / Bootstrap / MUI**</td>
+      <td>![90% Progress](https://progress-bar.dev/90/?title=90%&color=38B2AC)</td>
     </tr>
     <tr>
-      <td align="left">![Docker](https://skillicons.dev/icons?i=docker) **Docker & Cloud**</td>
-      <td>![75](https://progress-bar.dev/75/?title=75%&color=2496ED)</td>
+      <td align="left">![Docker Icon](https://skillicons.dev/icons?i=docker) **Docker & Cloud**</td>
+      <td>![75% Progress](https://progress-bar.dev/75/?title=75%&color=2496ED)</td>
     </tr>
     <tr>
-      <td align="left">![Figma](https://skillicons.dev/icons?i=figma) **UI/UX & Figma**</td>
-      <td>![85](https://progress-bar.dev/85/?title=85%&color=F24E1E)</td>
+      <td align="left">![Figma Icon](https://skillicons.dev/icons?i=figma) **UI/UX & Figma**</td>
+      <td>![85% Progress](https://progress-bar.dev/85/?title=85%&color=F24E1E)</td>
     </tr>
     <tr>
-      <td align="left">![Hardware](https://skillicons.dev/icons?i=arduino) **Hardware & System Maintenance**</td>
-      <td>![80](https://progress-bar.dev/80/?title=80%&color=FF8C00)</td>
+      <td align="left">![Hardware Icon](https://skillicons.dev/icons?i=arduino) **Hardware & System Maintenance**</td>
+      <td>![80% Progress](https://progress-bar.dev/80/?title=80%&color=FF8C00)</td>
     </tr>
   </tbody>
 </table>
 </div>
+
+---
 
 ---
 

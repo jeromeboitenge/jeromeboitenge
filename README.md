@@ -3,11 +3,12 @@
   <img src="https://i.imgur.com/4ZP1e5j.gif" alt="Jerome Boitenge Banner" width="100%" />
 </p>
 
-<!-- PROFILE TITLE -->
+<!-- PROFILE TITLE WITH MOVING DESCRIPTION -->
 <h1 align="center">👋 Hi, I'm <span style="color:#0A66C2;">Jerome Boitenge</span></h1>
-<h3 align="center">
-Senior Software Engineer | MERN & Next.js Developer | System Analyst | Hardware & Software Maintainer | Rwanda 🇷🇼
-</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=4000&pause=1000&color=0A66C2&width=600&lines=Senior+Software+Engineer;Frontend+%26+MERN+Developer;System+Analyst;Hardware+%26+Software+Maintainer" alt="Typing animation" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jeromeboitenge&label=Profile+Views&color=0A66C2&style=for-the-badge" />
@@ -20,9 +21,10 @@ Senior Software Engineer | MERN & Next.js Developer | System Analyst | Hardware 
 <details>
 <summary>Click to Expand About Me</summary>
 
-I'm **Jerome Boitenge**, a **full-stack developer, system analyst, and hardware/software maintainer**.  
-I build **scalable, secure, and impactful digital solutions** while also providing **hardware support and system analysis**.
+I'm **Jerome Boitenge**, a **full-stack developer, frontend expert, system analyst, and hardware/software maintainer**.  
+I build **scalable, secure, and visually stunning digital solutions** while also providing **hardware support and system analysis**.
 
+- ⚡ Frontend: React.js, React Native, Tailwind, Bootstrap, Material UI, Figma
 - ⚡ MERN & Next.js expert
 - ⚡ Skilled in backend architecture & system design
 - ⚡ Hardware maintenance & troubleshooting
@@ -36,22 +38,22 @@ I build **scalable, secure, and impactful digital solutions** while also providi
 
 # 🛠 **Skills**
 
-## 🔹 Programming & Frameworks
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,nodejs,express,nextjs,react,nestjs,c,cpp,java" />
-</p>
-
 ## 🔹 Frontend & UI/UX
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,materialui,figma,adobe,sass,jquery" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,reactnative,tailwind,bootstrap,materialui,figma,adobe,sass,jquery" />
+</p>
+
+## 🔹 Programming & Frameworks
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=typescript,python,nodejs,express,nextjs,nestjs,c,cpp,java,graphql" />
 </p>
 
 ## 🔹 Backend & Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,prisma,graphql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,prisma" />
 </p>
 
 ## 🔹 Cloud, DevOps & Tools
@@ -70,35 +72,32 @@ I build **scalable, secure, and impactful digital solutions** while also providi
 
 # 📊 **Skill Levels (Animated Progress Bars)**
 
-| Skill                             | Level                                                           |
-| --------------------------------- | --------------------------------------------------------------- |
-| **JavaScript**                    | ![90](https://progress-bar.dev/90/?title=JS&color=0A66C2)       |
-| **React**                         | ![95](https://progress-bar.dev/95/?title=React&color=61DBFB)    |
-| **Next.js**                       | ![90](https://progress-bar.dev/90/?title=NextJS&color=000000)   |
-| **Node.js**                       | ![85](https://progress-bar.dev/85/?title=NodeJS&color=68A063)   |
-| **MongoDB**                       | ![80](https://progress-bar.dev/80/?title=MongoDB&color=4DB33D)  |
-| **Tailwind CSS**                  | ![90](https://progress-bar.dev/90/?title=Tailwind&color=38B2AC) |
-| **Docker & Cloud**                | ![75](https://progress-bar.dev/75/?title=Docker&color=2496ED)   |
-| **UI/UX & Figma**                 | ![85](https://progress-bar.dev/85/?title=Figma&color=F24E1E)    |
-| **Hardware & System Maintenance** | ![80](https://progress-bar.dev/80/?title=Hardware&color=FF8C00) |
+| Skill                                 | Level                                                           |
+| ------------------------------------- | --------------------------------------------------------------- |
+| **JavaScript**                        | ![90](https://progress-bar.dev/90/?title=JS&color=0A66C2)       |
+| **React.js / React Native**           | ![95](https://progress-bar.dev/95/?title=React&color=61DBFB)    |
+| **Next.js**                           | ![90](https://progress-bar.dev/90/?title=NextJS&color=000000)   |
+| **Node.js**                           | ![85](https://progress-bar.dev/85/?title=NodeJS&color=68A063)   |
+| **MongoDB**                           | ![80](https://progress-bar.dev/80/?title=MongoDB&color=4DB33D)  |
+| **Tailwind / Bootstrap / MaterialUI** | ![90](https://progress-bar.dev/90/?title=Frontend&color=38B2AC) |
+| **Docker & Cloud**                    | ![75](https://progress-bar.dev/75/?title=Docker&color=2496ED)   |
+| **UI/UX & Figma**                     | ![85](https://progress-bar.dev/85/?title=Figma&color=F24E1E)    |
+| **Hardware & System Maintenance**     | ![80](https://progress-bar.dev/80/?title=Hardware&color=FF8C00) |
 
 ---
 
 # 📊 **GitHub Analytics & Stats**
 
 <p align="center">
-  <!-- Total commits, repos, stars, PRs -->
   <img src="https://github-readme-stats.vercel.app/api?username=jeromeboitenge&show_icons=true&theme=radical&count_private=true&include_all_commits=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeromeboitenge&theme=radical" width="48%" />
 </p>
 
 <p align="center">
-  <!-- Top languages used -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeromeboitenge&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
-  <!-- Contribution graph snake -->
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
@@ -171,5 +170,5 @@ I build **scalable, secure, and impactful digital solutions** while also providi
 
 <p align="center">
   ⭐ Follow me & star my repositories if you like my work!  
-  🔧 Expert in Software, Hardware & System Analysis
+  🔧 Expert in Software, Frontend, Backend, Hardware & System Analysis
 </p>

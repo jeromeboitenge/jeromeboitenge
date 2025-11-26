@@ -116,19 +116,17 @@ I build **scalable, secure, and visually stunning digital solutions** while also
 
 # 📊 **Skill Levels (Animated Progress Bars)**
 
-| Skill                                                                                 | Level                                                      |
-| :------------------------------------------------------------------------------------ | :--------------------------------------------------------- |
-| ![JavaScript](https://skillicons.dev/icons?i=javascript) **JavaScript**               | ![90](https://progress-bar.dev/90/?title=90%&color=0A66C2) |
-| ![React](https://skillicons.dev/icons?i=react) **React.js / React Native**            | ![95](https://progress-bar.dev/95/?title=95%&color=61DBFB) |
-| ![Next.js](https://skillicons.dev/icons?i=nextjs) **Next.js**                         | ![90](https://progress-bar.dev/90/?title=90%&color=000000) |
-| ![Node.js](https://skillicons.dev/icons?i=nodejs) **Node.js**                         | ![85](https://progress-bar.dev/85/?title=85%&color=68A063) |
-| ![MongoDB](https://skillicons.dev/icons?i=mongodb) **MongoDB**                        | ![80](https://progress-bar.dev/80/?title=80%&color=4DB33D) |
-| ![Tailwind](https://skillicons.dev/icons?i=tailwind) **Tailwind / Bootstrap / MUI**   | ![90](https://progress-bar.dev/90/?title=90%&color=38B2AC) |
-| ![Docker](https://skillicons.dev/icons?i=docker) **Docker & Cloud**                   | ![75](https://progress-bar.dev/75/?title=75%&color=2496ED) |
-| ![Figma](https://skillicons.dev/icons?i=figma) **UI/UX & Figma**                      | ![85](https://progress-bar.dev/85/?title=85%&color=F24E1E) |
-| ![Hardware](https://skillicons.dev/icons?i=arduino) **Hardware & System Maintenance** | ![80](https://progress-bar.dev/80/?title=80%&color=FF8C00) |
-
----
+| Skill                                                                                 | Level                                                                                                |
+| :------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------- |
+| ![JavaScript](https://skillicons.dev/icons?i=javascript) **JavaScript**               | ![90%](https://img.shields.io/badge/90%25-0A66C2?style=for-the-badge&logo=javascript&logoColor=fff)  |
+| ![React](https://skillicons.dev/icons?i=react) **React.js / React Native**            | ![95%](https://img.shields.io/badge/95%25-61DBFB?style=for-the-badge&logo=react&logoColor=fff)       |
+| ![Next.js](https://skillicons.dev/icons?i=nextjs) **Next.js**                         | ![90%](https://img.shields.io/badge/90%25-000000?style=for-the-badge&logo=nextdotjs&logoColor=fff)   |
+| ![Node.js](https://skillicons.dev/icons?i=nodejs) **Node.js**                         | ![85%](https://img.shields.io/badge/85%25-68A063?style=for-the-badge&logo=node.js&logoColor=fff)     |
+| ![MongoDB](https://skillicons.dev/icons?i=mongodb) **MongoDB**                        | ![80%](https://img.shields.io/badge/80%25-4DB33D?style=for-the-badge&logo=mongodb&logoColor=fff)     |
+| ![Tailwind](https://skillicons.dev/icons?i=tailwind) **Tailwind / Bootstrap / MUI**   | ![90%](https://img.shields.io/badge/90%25-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=fff) |
+| ![Docker](https://skillicons.dev/icons?i=docker) **Docker & Cloud**                   | ![75%](https://img.shields.io/badge/75%25-2496ED?style=for-the-badge&logo=docker&logoColor=fff)      |
+| ![Figma](https://skillicons.dev/icons?i=figma) **UI/UX & Figma**                      | ![85%](https://img.shields.io/badge/85%25-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)       |
+| ![Hardware](https://skillicons.dev/icons?i=arduino) **Hardware & System Maintenance** | ![80%](https://img.shields.io/badge/80%25-FF8C00?style=for-the-badge&logo=arduino&logoColor=fff)     |
 
 # 📊 **GitHub Analytics & Stats**
 

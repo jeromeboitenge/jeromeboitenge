@@ -56,22 +56,7 @@ I build **scalable, secure, and visually stunning digital solutions** while also
 
 ---
 
-# 🛠 **Skills**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react" width="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=nextjs" width="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=nodejs" width="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=mongodb" width="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=docker" width="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=typescript" width="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=tailwind" width="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=figma" width="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=linux" width="50" style="margin:10px;" />
- 
-</p>
-
-## 🔹 Frontend & UI/UX
+## 🔹 Frontend & UI/UX Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html" width="50" style="margin:10px;" />

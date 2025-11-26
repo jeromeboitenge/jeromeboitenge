@@ -63,14 +63,11 @@ I build **scalable, secure, and visually stunning digital solutions** while also
   <img src="https://skillicons.dev/icons?i=css" width="50" style="margin:10px;" />
   <img src="https://skillicons.dev/icons?i=javascript" width="50" style="margin:10px;" />
   <img src="https://skillicons.dev/icons?i=react" width="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=reactnative" width="50" style="margin:10px;" />
   <img src="https://skillicons.dev/icons?i=tailwind" width="50" style="margin:10px;" />
   <img src="https://skillicons.dev/icons?i=bootstrap" width="50" style="margin:10px;" />
   <img src="https://skillicons.dev/icons?i=materialui" width="50" style="margin:10px;" />
   <img src="https://skillicons.dev/icons?i=figma" width="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=adobe" width="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=sass" width="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=jquery" width="50" style="margin:10px;" />
+
 </p>
 
 ## 🔹 Programming & Frameworks

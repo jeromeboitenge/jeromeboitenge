@@ -97,12 +97,10 @@ I build **scalable, secure, and visually stunning digital solutions** while also
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker" width="60" style="margin:15px;" />
   <img src="https://skillicons.dev/icons?i=vercel" width="60" style="margin:15px;" />
-  <img src="https://skillicons.dev/icons?i=netlify" width="60" style="margin:15px;" />
   <img src="https://skillicons.dev/icons?i=github" width="60" style="margin:15px;" />
   <img src="https://skillicons.dev/icons?i=linux" width="60" style="margin:15px;" />
-  <img src="https://skillicons.dev/icons?i=nginx" width="60" style="margin:15px;" />
   <img src="https://skillicons.dev/icons?i=aws" width="60" style="margin:15px;" />
-  <img src="https://skillicons.dev/icons?i=heroku" width="60" style="margin:15px;" />
+
 </p>
 
 ## 🔹 Hardware & System Maintenance

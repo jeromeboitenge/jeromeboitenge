@@ -193,6 +193,8 @@ I build **scalable, secure, and visually stunning digital solutions** while also
 
 ---
 
+o
+
 # 💡 **Quote**
 
 > “Technology bridges ideas and impactful solutions. I also maintain systems and hardware to keep technology running efficiently.”

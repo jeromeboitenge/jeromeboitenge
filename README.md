@@ -114,15 +114,6 @@ I build **scalable, secure, and visually stunning digital solutions** while also
   <img src="https://skillicons.dev/icons?i=arduino" width="50" style="margin:10px;" />
 </p>
 
-# 💻 **Code Showcase**
-
-<p align="center">
-  💡 **Node.js API Route Example (Using Express.js):**
-  <script src="https://gist.github.com/jeromeboitenge/50c8e3b32e0862a95c47941094f9d0e1.js"></script> 
-</p>
-
----
-
 # 📊 **Skill Levels (Animated Progress Bars)**
 
 | Skill                                                                                 | Level                                                      |

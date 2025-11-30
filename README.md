@@ -132,7 +132,7 @@ I build **scalable, secure, and visually stunning digital solutions** while also
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jeromeboitenge&show_icons=true&theme=radical&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeromeboitenge&theme=radical" width="48%" alt="GitHub Streak Stats" />
+  
 </p>
 
 # 🎯 **Featured Projects**

@@ -159,7 +159,7 @@ I build **scalable, secure, and visually stunning digital solutions** while also
 ### 1️⃣ Advanced Hotel Management System
 
 <p align="center">
-  <a href="#"><img src="https://i.imgur.com/j3Diw1D.png" width="280" alt="Hotel Management System screenshot" /></a>
+  <a href="#"><img src="/hotel.png" width="280" alt="Hotel Management System screenshot" /></a>
 </p>
 - Online room booking & payment  
 - Staff & product management  

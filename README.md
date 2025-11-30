@@ -135,12 +135,6 @@ I build **scalable, secure, and visually stunning digital solutions** while also
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeromeboitenge&theme=radical" width="48%" alt="GitHub Streak Stats" />
 </p>
 
-<p align="center">
-  <img src="https://wakatime.com/badge/user/53f81e0a-31a8-4447-b849-c128c70f0747/language/javascript.svg" alt="Wakatime JavaScript Activity" />
-</p>
-
----
-
 # 🎯 **Featured Projects**
 
 ### 3️⃣ Event Management System (Hitamospace)

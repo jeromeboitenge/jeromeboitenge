@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:06B6D4&height=220&section=header&text=Jerome%20NZARAMYIMANA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:38BDF8&height=220&section=header&text=Jerome%20NZARAMYIMANA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
     alt="Jerome NZARAMYIMANA — Full-Stack Software Engineer"
     width="100%"
   />
@@ -10,7 +10,9 @@
   <img
     src="./images/Nzaramyimana%20Jerome.jpeg"
     alt="Jerome NZARAMYIMANA"
-    width="132"
+    width="150"
+    height="150"
+    style="border-radius:50%;border:4px solid #0A66C2;object-fit:cover;"
   />
 </p>
 
@@ -18,7 +20,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1100&color=0F766E&center=true&vCenter=true&width=720&lines=Full-Stack+Software+Engineer;MERN+%26+Next.js+Developer;Building+Digital+Solutions+from+Kigali%2C+Rwanda"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1100&color=0A66C2&center=true&vCenter=true&width=720&lines=Full-Stack+Software+Engineer;MERN+%26+Next.js+Developer;Building+Digital+Solutions+from+Kigali%2C+Rwanda"
     alt="Full-Stack Software Engineer | MERN and Next.js Developer | Building Digital Solutions from Kigali, Rwanda"
   />
 </p>
@@ -28,10 +30,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://boitenge.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:boitengejerome@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/jeromeboitenge">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -85,7 +87,7 @@ I enjoy turning practical challenges into dependable digital products—from the
 
 ---
 
-## Featured Projects
+## Selected Projects
 
 <table>
   <tr>
@@ -96,24 +98,27 @@ I enjoy turning practical challenges into dependable digital products—from the
       <h3>HitamoSpace · Event Management System</h3>
       <p>Streamlines event operations with QR-based registration, role-based access, and financial and analytics dashboards.</p>
       <p><strong>Tech:</strong> React · Next.js · Prisma · MongoDB · WebRTC</p>
-      <p><a href="https://hitamospace.ur.ac.rw/">LIVE DEMO</a></p>
+      <p><a href="https://hitamospace.ur.ac.rw/"><img src="https://img.shields.io/badge/LIVE%20DEMO-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open HitamoSpace live demo" /></a></p>
     </td>
   </tr>
-</table>
-
-### More Projects
-
-<table>
   <tr>
     <td>
+      <a href="https://unibridge.urbinaryhub.rw/">
+        <img src="./images/unibridge.png" alt="UniBridge internship management dashboard screenshot" width="100%" />
+      </a>
       <h3>UniBridge · Internship Management</h3>
-      <p>A platform for managing internship opportunities and processes.</p>
-      <p><a href="https://unibridge.urbinaryhub.rw/">LIVE DEMO</a></p>
+      <p>Connects students and companies with university-wide visibility into internship placements, approvals, and partners.</p>
+      <p><strong>Capabilities:</strong> Internship placement · Student records · Approvals · Analytics</p>
+      <p><a href="https://unibridge.urbinaryhub.rw/"><img src="https://img.shields.io/badge/LIVE%20DEMO-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open UniBridge live demo" /></a></p>
     </td>
     <td>
-      <h3>Document Editing Platform</h3>
-      <p>A web-based tool for editing documents.</p>
-      <p><a href="http://13.140.184.252:8090/">LIVE DEMO</a></p>
+      <a href="http://13.140.184.252:8090/">
+        <img src="./images/document-editing.png" alt="SecureDocs document editing and PDF tools platform screenshot" width="100%" />
+      </a>
+      <h3>SecureDocs · Document Tools</h3>
+      <p>A single workspace for common document tasks, including PDF conversion, signing, merging, and protection.</p>
+      <p><strong>Capabilities:</strong> Document editing · PDF conversion · Digital signatures · File protection</p>
+      <p><a href="http://13.140.184.252:8090/"><img src="https://img.shields.io/badge/LIVE%20DEMO-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open SecureDocs live demo" /></a></p>
     </td>
   </tr>
 </table>
@@ -128,10 +133,10 @@ I enjoy turning practical challenges into dependable digital products—from the
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
-          srcset="https://github-readme-stats.vercel.app/api?username=jeromeboitenge&show_icons=true&hide_border=true&bg_color=0d1117&title_color=5eead4&text_color=c9d1d9&icon_color=2dd4bf"
+          srcset="https://github-readme-stats.vercel.app/api?username=jeromeboitenge&show_icons=true&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=c9d1d9&icon_color=3b82f6"
         />
         <img
-          src="https://github-readme-stats.vercel.app/api?username=jeromeboitenge&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0f766e&text_color=334155&icon_color=0891b2"
+          src="https://github-readme-stats.vercel.app/api?username=jeromeboitenge&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0A66C2&text_color=334155&icon_color=2563EB"
           alt="Jerome's GitHub stats"
           height="170"
         />
@@ -141,10 +146,10 @@ I enjoy turning practical challenges into dependable digital products—from the
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jeromeboitenge&layout=compact&hide_border=true&bg_color=0d1117&title_color=5eead4&text_color=c9d1d9"
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jeromeboitenge&layout=compact&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=c9d1d9"
         />
         <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeromeboitenge&layout=compact&hide_border=true&bg_color=ffffff&title_color=0f766e&text_color=334155"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeromeboitenge&layout=compact&hide_border=true&bg_color=ffffff&title_color=0A66C2&text_color=334155"
           alt="Jerome's most-used languages"
           height="170"
         />
@@ -157,10 +162,10 @@ I enjoy turning practical challenges into dependable digital products—from the
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://streak-stats.demolab.com?user=jeromeboitenge&theme=tokyonight&hide_border=true"
+      srcset="https://streak-stats.demolab.com?user=jeromeboitenge&theme=tokyonight&hide_border=true&ring=3b82f6&fire=60a5fa&currStreakLabel=60a5fa"
     />
     <img
-      src="https://streak-stats.demolab.com?user=jeromeboitenge&theme=default&hide_border=true"
+      src="https://streak-stats.demolab.com?user=jeromeboitenge&theme=default&hide_border=true&ring=0A66C2&fire=2563EB&currStreakLabel=0A66C2"
       alt="Jerome's GitHub contribution streak"
     />
   </picture>
@@ -170,10 +175,10 @@ I enjoy turning practical challenges into dependable digital products—from the
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=jeromeboitenge&bg_color=0d1117&color=5eead4&line=2dd4bf&point=67e8f9&area=true&hide_border=true"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=jeromeboitenge&bg_color=0d1117&color=93c5fd&line=3b82f6&point=60a5fa&area=true&hide_border=true"
     />
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=jeromeboitenge&bg_color=ffffff&color=0f766e&line=0891b2&point=0f766e&area=true&hide_border=true"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=jeromeboitenge&bg_color=ffffff&color=1e40af&line=0A66C2&point=2563EB&area=true&hide_border=true"
       alt="Jerome's GitHub contribution activity graph"
       width="100%"
     />
@@ -208,16 +213,16 @@ I'm open to opportunities where I can build reliable web products, contribute ac
 
 <p align="center">
   <a href="mailto:boitengejerome@gmail.com">
-    <img src="https://img.shields.io/badge/Contact%20Me-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Jerome by email" />
+    <img src="https://img.shields.io/badge/Contact%20Me-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Jerome by email" />
   </a>
   <a href="https://drive.google.com/file/d/1jhl1MrnuTMItHuivMO-jI6WLrKJlv6Bt/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Download%20CV-0891B2?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download Jerome's CV" />
+    <img src="https://img.shields.io/badge/Download%20CV-2563EB?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download Jerome's CV" />
   </a>
 </p>
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:06B6D4&height=100&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:38BDF8&height=100&section=footer"
     alt=""
     width="100%"
   />

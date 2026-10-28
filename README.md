@@ -1,223 +1,224 @@
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/jeromeboitenge/jeromeboitenge/main/images/Nzaramyimana%20Jerome.jpeg?v=2"
-    alt="Jerome NZARAMYIMANA Profile Photo"
-    width="150"
-    style="border-radius:50%;border:4px solid #0A66C2;"
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:06B6D4&height=220&section=header&text=Jerome%20NZARAMYIMANA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
+    alt="Jerome NZARAMYIMANA — Full-Stack Software Engineer"
+    width="100%"
   />
 </p>
 
+<p align="center">
+  <img
+    src="./images/Nzaramyimana%20Jerome.jpeg"
+    alt="Jerome NZARAMYIMANA"
+    width="132"
+  />
 </p>
 
-<h1 align="center">
-  👋 Hi, I'm <span style="color:#0A66C2;">NZARAMYIMANA Jerome</span>
-</h1>
+<h1 align="center">Full-Stack Software Engineer</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FULL--STACK%20ENGINEER-3F3F51?style=for-the-badge&logoColor=ffffff" alt="Full Stack Engineer" />
-  <img src="https://img.shields.io/badge/DESIGN%20SYSTEMS-3F3F51?style=for-the-badge&logoColor=ffffff" alt="Design Systems" />
-  <img src="https://img.shields.io/badge/HARDWARE%20&%20MAINTENANCE-3F3F51?style=for-the-badge&logoColor=ffffff" alt="Hardware & Maintenance" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1100&color=0F766E&center=true&vCenter=true&width=720&lines=Full-Stack+Software+Engineer;MERN+%26+Next.js+Developer;Building+Digital+Solutions+from+Kigali%2C+Rwanda"
+    alt="Full-Stack Software Engineer | MERN and Next.js Developer | Building Digital Solutions from Kigali, Rwanda"
+  />
 </p>
 
 <p align="center">
-  I design and engineer premium digital experiences across React, Next.js, and Node.js — blending product thinking, design systems, and scalable infrastructure so launches feel effortless and polished.
-</p>
-
-<p align="center">
-  <a href="mailto:boitengejerome@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Hire%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Hire Me button" />
+  <a href="https://www.linkedin.com/in/jerome-nzaramyimana-463b4a411">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;
-  <a href="https://your-cv-link.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20CV-0A66C2?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download CV button" />
+  <a href="https://boitenge.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:boitengejerome@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/jeromeboitenge">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://orcid.org/0009-0007-3893-0202">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
   </a>
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=4000&pause=1000&color=0A66C2&width=600&lines=Senior+Software+Engineer;Frontend+%26+MERN+Developer;System+Analyst;Hardware+%26+Software+Maintainer" alt="Typing animation" />
-</h1>
-
-<p align="center ">
-  <img src="https://komarev.com/ghpvc/?username=jeromeboitenge&label=Profile+Views&color=0A66C2&style=for-the-badge" />
+<p align="center">
+  <strong>Kigali, Rwanda</strong> · Building for the web and supporting the systems behind it
 </p>
 
 ---
 
-# 💻 **About Me**
+## About Me
 
-I'm **Jerome Boitenge**, a **full-stack developer, frontend expert, system analyst, and hardware/software maintainer**.  
-I build **scalable, secure, and visually stunning digital solutions** while also providing **hardware support and system analysis**.
+I build scalable, secure, and thoughtfully designed web applications with React, Next.js, Node.js, and modern databases.<br />
+I also bring hands-on experience in hardware support, system maintenance, and troubleshooting across Windows and Linux environments.<br />
+I enjoy turning practical challenges into dependable digital products—from the first interface to the backend that powers it.
 
-- ⚡ Frontend: React.js, React Native, Tailwind, Bootstrap, Material UI, Figma
-- ⚡ MERN & Next.js expert
-- ⚡ Skilled in backend architecture & system design
-- ⚡ Hardware maintenance & troubleshooting
-- ⚡ Cloud deployment & DevOps automation
-- ⚡ UI/UX design & responsive interfaces
-- ⚡ Passionate about mentoring & building African tech solutions
+- **Currently working on:** Full-stack applications and practical digital products
+- **Learning:** Cloud architecture, application security, and system design
+- **Open to:** Full-time roles, internships, freelance projects, and collaboration
+- **Ask me about:** MERN, Next.js, databases, hardware support, and system maintenance
 
 ---
 
-## 🔹 Frontend & UI/UX Technologies
+## Tech Stack
 
+<p align="center"><strong>Frontend & Design</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html" width="60" style="margin:15px;" />
-  <img src="https://skillicons.dev/icons?i=css" width="60" style="margin:15px;" />
-  <img src="https://skillicons.dev/icons?i=javascript" width="60" style="margin:15px;" />
-  <img src="https://skillicons.dev/icons?i=react" width="60" style="margin:15px;" />
-  <img src="https://skillicons.dev/icons?i=tailwind" width="60" style="margin:15px;" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="60" style="margin:15px;" />
-  <img src="https://skillicons.dev/icons?i=materialui" width="60" style="margin:15px;" />
-  <img src="https://skillicons.dev/icons?i=figma" width="50" style="margin:15px;" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,mui,figma&theme=light" alt="HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, Bootstrap, Material UI, and Figma" />
+</p>
+<p align="center">Also: React Native</p>
 
+<p align="center"><strong>Backend & Languages</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,nestjs,java,cpp,graphql&theme=light" alt="TypeScript, Node.js, Express, NestJS, Java, C++, and GraphQL" />
 </p>
 
-## 🔹 Backend Tech & Frameworks
-
+<p align="center"><strong>Databases, Cloud & DevOps</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript" width="60" style="margin:15px;" />
-  <img src="https://skillicons.dev/icons?i=nodejs" width="60" style="margin:15px;" />
-  <img src="https://skillicons.dev/icons?i=express" width="60" style="margin:15px;" />
-  <img src="https://skillicons.dev/icons?i=nextjs" width="60" style="margin:15px;" />
-  <img src="https://skillicons.dev/icons?i=nestjs" width="60" style="margin:15px;" />
-  <img src="https://skillicons.dev/icons?i=cpp" width="60" style="margin:15px;" />
-  <img src="https://skillicons.dev/icons?i=java" width="60" style="margin:15px;" />
-  <img src="https://skillicons.dev/icons?i=graphql" width="60" style="margin:15px;" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,prisma,docker,vercel,github,linux,aws&theme=light" alt="MongoDB, PostgreSQL, MySQL, Prisma, Docker, Vercel, GitHub, Linux, and AWS" />
 </p>
 
-## 🔹 Databases
-
+<p align="center"><strong>Hardware & Systems</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb" width="60" style="margin:15px;" />
-  <img src="https://skillicons.dev/icons?i=postgres" width="60" style="margin:15px;" />
-  <img src="https://skillicons.dev/icons?i=mysql" width="60" style="margin:15px;" />
-  <img src="https://skillicons.dev/icons?i=prisma" width="60" style="margin:15px;" />
-</p>
-
-## 🔹 Cloud, DevOps & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker" width="60" style="margin:15px;" />
-  <img src="https://skillicons.dev/icons?i=vercel" width="60" style="margin:15px;" />
-  <img src="https://skillicons.dev/icons?i=github" width="60" style="margin:15px;" />
-  <img src="https://skillicons.dev/icons?i=linux" width="60" style="margin:15px;" />
-  <img src="https://skillicons.dev/icons?i=aws" width="60" style="margin:15px;" />
-
-</p>
-
-## 🔹 Hardware & System Maintenance
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=windows" width="60" style="margin:15px;" />
-  <img src="https://skillicons.dev/icons?i=linux" width="60" style="margin:15px;" />
-    <img src="./images/mainboard.jpg" width="60" style="margin:15px;" />
-  
-</p>
-
-# 📊 **Skill Levels (Animated Progress Bars)**
-
-| Skill                                                                                 | Level                                                                                                |
-| :------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------- |
-| ![JavaScript](https://skillicons.dev/icons?i=javascript) **JavaScript**               | ![90%](https://img.shields.io/badge/90%25-0A66C2?style=for-the-badge&logo=javascript&logoColor=fff)  |
-| ![React](https://skillicons.dev/icons?i=react) **React.js / React Native**            | ![95%](https://img.shields.io/badge/95%25-61DBFB?style=for-the-badge&logo=react&logoColor=fff)       |
-| ![Next.js](https://skillicons.dev/icons?i=nextjs) **Next.js**                         | ![90%](https://img.shields.io/badge/90%25-000000?style=for-the-badge&logo=nextdotjs&logoColor=fff)   |
-| ![Node.js](https://skillicons.dev/icons?i=nodejs) **Node.js**                         | ![85%](https://img.shields.io/badge/85%25-68A063?style=for-the-badge&logo=node.js&logoColor=fff)     |
-| ![MongoDB](https://skillicons.dev/icons?i=mongodb) **MongoDB**                        | ![80%](https://img.shields.io/badge/80%25-4DB33D?style=for-the-badge&logo=mongodb&logoColor=fff)     |
-| ![Tailwind](https://skillicons.dev/icons?i=tailwind) **Tailwind / Bootstrap / MUI**   | ![90%](https://img.shields.io/badge/90%25-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=fff) |
-| ![Docker](https://skillicons.dev/icons?i=docker) **Docker & Cloud**                   | ![75%](https://img.shields.io/badge/75%25-2496ED?style=for-the-badge&logo=docker&logoColor=fff)      |
-| ![Figma](https://skillicons.dev/icons?i=figma) **UI/UX & Figma**                      | ![85%](https://img.shields.io/badge/85%25-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)       |
-| ![Hardware](https://skillicons.dev/icons?i=arduino) **Hardware & System Maintenance** | ![80%](https://img.shields.io/badge/80%25-FF8C00?style=for-the-badge&logo=arduino&logoColor=fff)     |
-
-# 📊 GitHub Analytics & Real-Time Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeromeboitenge&show_icons=true&theme=radical&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeromeboitenge&theme=radical" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jeromeboitenge&theme=radical" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeromeboitenge&theme=radical" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jeromeboitenge&theme=radical" width="32%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jeromeboitenge&theme=radical" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeromeboitenge&theme=radical" width="65%" />
-</p>
-
-# 🎯 **Featured Projects**
-
-### 3️⃣ Event Management System (Hitamospace)
-
-<p align="center">
-  <a href="#"><img src="./images/hitamospace.png" width="280" alt="Event Management System screenshot" /></a>
-</p>
-- QR-based registration & approvals  
-- Role-based access  
-- Financial & analytical dashboards
-
-</div>
-
-<div align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:20px">
-
-### 1️⃣ Advanced Hotel Management System
-
-<p align="center">
-  <a href="#"><img src="/hotel.png" width="280" alt="Hotel Management System screenshot" /></a>
-</p>
-- Online room booking & payment  
-- Staff & product management  
-- Admin dashboard & analytics  
-- Scalable MERN backend
-
----
-
-### 2️⃣ ExploreHub — Rwanda Tourism
-
-<p align="center">
-  <a href="#"><img src="https://i.imgur.com/9VrGjRE.png" width="280" alt="ExploreHub screenshot" /></a>
-</p>
-- Discover & review destinations  
-- Google Maps integration  
-- User-driven reviews & media
-
----
-
----
-
-### ✍️ Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Development Quote" />
+  Windows and Linux administration · Hardware maintenance · Troubleshooting
 </p>
 
 ---
 
-# 🌐 **Connect With Me**
+## Featured Projects
+
+<table>
+  <tr>
+    <td>
+      <a href="https://hitamospace.ur.ac.rw/">
+        <img src="./images/hitamospace.png" alt="HitamoSpace event management system screenshot" width="100%" />
+      </a>
+      <h3>HitamoSpace · Event Management System</h3>
+      <p>Streamlines event operations with QR-based registration, role-based access, and financial and analytics dashboards.</p>
+      <p><strong>Tech:</strong> React · Next.js · Prisma · MongoDB · WebRTC</p>
+      <p><a href="https://hitamospace.ur.ac.rw/">LIVE DEMO</a> · Source repository link not listed in the existing README</p>
+    </td>
+  </tr>
+</table>
+
+### More Projects
+
+<table>
+  <tr>
+    <td>
+      <h3>UniBridge · Internship Management</h3>
+      <p>A platform for managing internship opportunities and processes.</p>
+      <p><a href="https://unibridge.urbinaryhub.rw/">LIVE DEMO</a></p>
+    </td>
+    <td>
+      <h3>Document Editing Platform</h3>
+      <p>A web-based tool for editing documents.</p>
+      <p><a href="http://13.140.184.252:8090/">LIVE DEMO</a></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## GitHub
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <picture>
+        <source
+          media="(prefers-color-scheme: dark)"
+          srcset="https://github-readme-stats.vercel.app/api?username=jeromeboitenge&show_icons=true&hide_border=true&bg_color=0d1117&title_color=5eead4&text_color=c9d1d9&icon_color=2dd4bf"
+        />
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=jeromeboitenge&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0f766e&text_color=334155&icon_color=0891b2"
+          alt="Jerome's GitHub stats"
+          height="170"
+        />
+      </picture>
+    </td>
+    <td align="center">
+      <picture>
+        <source
+          media="(prefers-color-scheme: dark)"
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jeromeboitenge&layout=compact&hide_border=true&bg_color=0d1117&title_color=5eead4&text_color=c9d1d9"
+        />
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeromeboitenge&layout=compact&hide_border=true&bg_color=ffffff&title_color=0f766e&text_color=334155"
+          alt="Jerome's most-used languages"
+          height="170"
+        />
+      </picture>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <a href="mailto:boitengejerome@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Gmail" /></a>
-  <a href="https://linkedin.com/in/jerome-boitenge"><img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn" /></a>
-  <a href="https://github.com/jeromeboitenge"><img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub" /></a>
-  <a href="https://jeromeboitenge.github.io/my-portifolio/"><img src="https://skillicons.dev/icons?i=webflow" width="48" alt="Portfolio" /></a>
-  <a href="https://twitter.com/jeromeboitenge"><img src="https://skillicons.dev/icons?i=twitter" width="48" alt="Twitter" /></a>
-  <a href="https://stackoverflow.com/users/yourid"><img src="https://skillicons.dev/icons?i=stackoverflow" width="48" alt="Stack Overflow" /></a>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://streak-stats.demolab.com?user=jeromeboitenge&theme=tokyonight&hide_border=true"
+    />
+    <img
+      src="https://streak-stats.demolab.com?user=jeromeboitenge&theme=default&hide_border=true"
+      alt="Jerome's GitHub contribution streak"
+    />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=jeromeboitenge&bg_color=0d1117&color=5eead4&line=2dd4bf&point=67e8f9&area=true&hide_border=true"
+    />
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=jeromeboitenge&bg_color=ffffff&color=0f766e&line=0891b2&point=0f766e&area=true&hide_border=true"
+      alt="Jerome's GitHub contribution activity graph"
+      width="100%"
+    />
+  </picture>
 </p>
 
 ---
 
-o
+## Contributions
 
-# 💡 **Quote**
+Add the contribution-snake workflow below to generate and update this animation:
 
-> “Technology bridges ideas and impactful solutions. I also maintain systems and hardware to keep technology running efficiently.”
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/jeromeboitenge/jeromeboitenge/output/github-contribution-grid-snake-dark.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/jeromeboitenge/jeromeboitenge/output/github-contribution-grid-snake.svg"
+      alt="Animated snake following Jerome's GitHub contribution graph"
+      width="100%"
+    />
+  </picture>
+</p>
 
 ---
 
-# ⚡ **Final Touch**
+## Let's Work Together
+
+I'm open to opportunities where I can build reliable web products, contribute across the stack, and bring a hands-on approach to technology.
 
 <p align="center">
-  ⭐ Follow me & star my repositories if you like my work!  
-  🔧 Expert in Software, Frontend, Backend, Hardware & System Analysis
+  <a href="mailto:boitengejerome@gmail.com">
+    <img src="https://img.shields.io/badge/Contact%20Me-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Jerome by email" />
+  </a>
+  <a href="https://drive.google.com/file/d/1jhl1MrnuTMItHuivMO-jI6WLrKJlv6Bt/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Download%20CV-0891B2?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download Jerome's CV" />
+  </a>
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:06B6D4&height=100&section=footer"
+    alt=""
+    width="100%"
+  />
 </p>

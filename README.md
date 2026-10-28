@@ -8,11 +8,10 @@
 
 <p align="center">
   <img
-    src="./images/Nzaramyimana%20Jerome.jpeg"
+    src="./images/profile-avatar.png"
     alt="Jerome NZARAMYIMANA"
     width="150"
     height="150"
-    style="border-radius:50%;border:4px solid #0A66C2;object-fit:cover;"
   />
 </p>
 
@@ -167,20 +166,6 @@ I enjoy turning practical challenges into dependable digital products—from the
     <img
       src="https://streak-stats.demolab.com?user=jeromeboitenge&theme=default&hide_border=true&ring=0A66C2&fire=2563EB&currStreakLabel=0A66C2"
       alt="Jerome's GitHub contribution streak"
-    />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=jeromeboitenge&bg_color=0d1117&color=93c5fd&line=3b82f6&point=60a5fa&area=true&hide_border=true"
-    />
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=jeromeboitenge&bg_color=ffffff&color=1e40af&line=0A66C2&point=2563EB&area=true&hide_border=true"
-      alt="Jerome's GitHub contribution activity graph"
-      width="100%"
     />
   </picture>
 </p>

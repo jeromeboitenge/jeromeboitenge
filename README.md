@@ -96,7 +96,7 @@ I enjoy turning practical challenges into dependable digital products—from the
       <h3>HitamoSpace · Event Management System</h3>
       <p>Streamlines event operations with QR-based registration, role-based access, and financial and analytics dashboards.</p>
       <p><strong>Tech:</strong> React · Next.js · Prisma · MongoDB · WebRTC</p>
-      <p><a href="https://hitamospace.ur.ac.rw/">LIVE DEMO</a> · Source repository link not listed in the existing README</p>
+      <p><a href="https://hitamospace.ur.ac.rw/">LIVE DEMO</a></p>
     </td>
   </tr>
 </table>
